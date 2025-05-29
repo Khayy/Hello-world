@@ -1,2 +1,2 @@
-# Online Reservation Website
-HTML,CSS,BOOTSTRAP,JAVASCRIPT
+# Python Practice
+Python Projects 
